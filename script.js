@@ -1,1 +1,1 @@
-console.log('Bootstrap portfolio loaded successfully');
+console.log('Bootstrap portfolio with LinkedIn details loaded successfully');
